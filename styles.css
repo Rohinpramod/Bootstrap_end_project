@@ -1,0 +1,57 @@
+
+
+.brandingLy{
+    color:orange;
+}
+.image{
+    border-radius: 2rem;
+    background-color: #FDC04E;
+    
+}
+
+
+.colored-class{
+    background-color: #fefcec;
+}
+#navbar1{
+    background-color: #fefcec;
+}
+.learn-more{
+    color: #FDC04E;
+    font-weight:600;
+}
+.icons{
+    max-width:100%;
+    height: auto;
+}
+.Companies{
+    margin-top: 5%;
+    margin-left:15%;
+    padding-left: 2%;
+}
+.google, .netflix, .airbnb, .amazon{
+    width: 10rem;
+    margin: 0 1.5rem;
+    padding: 0 0;
+}
+
+.card-body, .card-img-top{
+    background-color: #FEFCEC;
+    
+}
+.card-text{
+    font-size: 20px;
+    font-weight: 500;
+}
+#become{
+    margin-top: 10%;
+}
+.socialIcons{
+    width: 3rem;
+    height: auto;
+}
+
+.instructorParagraph{
+    max-width: 50%;
+    padding: 1rem 0;
+}
